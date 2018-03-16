@@ -6,11 +6,11 @@
 
 
 #### *File List*
-- ChaiLei
-- GuJianXin
-- GuiShuRui
-- WuYuZhang
-- ChenJunYu
+- cl
+- gjx
+- gsr
+- wyz
+- cjy
 
 	*Suggestions about own file:*
 	+ Get two files named after "code" and "article"
@@ -26,8 +26,8 @@ The content of this file is a chart:
 
 |person/task|start-end|finished|
 |:-----:|:-----:|:-----:|
-|ChaiLei/...|3.16--4.01 |No|
-|GuJianXin/...|3.21--4.09|Yes|
+|cl/...|3.16--4.01 |No|
+|gjx/...|3.21--4.09|Yes|
 
 
 
