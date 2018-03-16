@@ -24,10 +24,11 @@ We update this file before the deadline, contents in this file will be commited 
 We update this file every week when we have a offical meeting.
 The content of this file is a chart:
 
-|person/task|start-end|finished|
-|:-----:|:-----:|:-----:|
-|cl/...|3.16--4.01 |No|
-|gjx/...|3.21--4.09|Yes|
+|person|task|start-end|schedule|finish|
+|:----:|:--:|:-------:|:------:|:----:|
+|cl|...|3.16--4.01|50%|No|
+|gjx|...|3.21--4.09|100%|Yes|
+
 
 
 
